@@ -8,7 +8,7 @@ new TypeIt("#tqyxhj", {
     .delete(null, {
         delay: 500
     })
-    .type("一起走过的第三年.")
+    .type("我们在一起的第三年")
     .pause(3000)
     .go();
 
